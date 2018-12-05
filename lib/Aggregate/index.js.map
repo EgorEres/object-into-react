@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Aggregate/index.js"],"names":["Aggregate"],"mappings":";;;;;;;AAAA;;;;eACeA,kB","sourcesContent":["import Aggregate from './aggregate'\nexport default Aggregate\n"],"file":"index.js"}

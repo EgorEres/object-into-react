@@ -1,0 +1,40 @@
+{
+  "name": "object-into-react",
+  "version": "0.1.0",
+  "description": "Visual representation js objects in react component",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib --source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgorEres/object-into-react.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "object",
+    "react-object",
+    "log",
+    "visual-object"
+  ],
+  "author": "Egor Eres'ko",
+  "license": "ISC",
+  "engines": {
+    "node": ">=6.11.2"
+  },
+  "bugs": {
+    "url": "https://github.com/EgorEres/object-into-react/issues"
+  },
+  "homepage": "https://github.com/EgorEres/object-into-react#readme",
+  "dependencies": {
+    "react": "^16.6.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
