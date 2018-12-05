@@ -1,6 +1,6 @@
 {
   "name": "object-into-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Visual representation js objects in react component",
   "main": "./lib/index.js",
   "scripts": {
