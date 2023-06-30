@@ -8,7 +8,7 @@ import BooleanLine from '../BooleanLine'
 import ObjectLine from '../ObjectLine'
 import StringLine from '../StringLine'
 
-class Aggregate extends React.Component {
+class Aggregate extends React.Component<any, any> {
   constructor (props) {
     super(props)
     this.state = {isOpen: this.props.isOpen}
